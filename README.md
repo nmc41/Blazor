@@ -1,2 +1,2 @@
 # Blazor
-Learning Blazor ! 
+Learning Blazor :D 
